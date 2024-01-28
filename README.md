@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="https://projecteuler.net/profile/Graygzou.png" class="postimage" alt="Image">
+
+CodinGame Level: 11     
+CodinGame Ranking: 27,929th (top 4%)
+
+Total stars in [AoC](https://adventofcode.com/): 115⭐
 
 <!--
 **Graygzou/Graygzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
