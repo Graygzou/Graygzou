@@ -5,7 +5,7 @@ CodinGame Ranking: 27,929th (top 4%)
 
 Total stars in [AoC](https://adventofcode.com/): 115⭐
 
-![](https://img.shields.io/badge/stars%20⭐-42-yellow)
+![](https://img.shields.io/badge/stars%20⭐-115-yellow)
 ![](https://img.shields.io/badge/days%20completed-3-red)
 
 <!--
