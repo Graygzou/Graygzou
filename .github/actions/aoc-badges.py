@@ -78,6 +78,8 @@ f = io.open(readme, mode='r', encoding='utf-8')
 txt = f.read()
 f.close()
 
+print(f'existing readme: {txt}')
+
 # replace values
 txt = re.sub(day_regex, str(day), txt)
 txt = re.sub(stars_regex, str(stars), txt)
